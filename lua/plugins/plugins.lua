@@ -1,5 +1,8 @@
 return {
-  {
-    "williamboman/mason.nvim",
-  },
+	{
+		"williamboman/mason.nvim",
+	},
+	{
+		"tpope/vim-fugitive",
+	}
 }
