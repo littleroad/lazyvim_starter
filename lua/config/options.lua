@@ -26,6 +26,8 @@ opt.hls = true
 opt.ignorecase = true
 opt.smartcase = true
 opt.linebreak = true
+opt.wrap=true
+opt.wrapmargin=0
 
 opt.fileencodings = "utf-8,cp936"
 
